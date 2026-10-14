@@ -137,9 +137,7 @@ outputs/        generated results
 
 ## Data source
 
-"Amazon Customer Review Data", Zenodo record 3549704. Check its licence and cite it properly:
+"Amazon Customer Review Data", Zenodo record 3549704. 
 https://zenodo.org/record/3549704
 
-## Author
 
-Muskan Kumari Singh - B.Tech Civil Engineering, NIT Surathkal. MIT licence.
