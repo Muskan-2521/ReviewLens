@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+# raw data is large; download it with scripts/download_data.py
+data/raw/
+# cached LLM responses (re-creatable, may cost money to rebuild so keep locally)
+outputs/llm_cache.jsonl

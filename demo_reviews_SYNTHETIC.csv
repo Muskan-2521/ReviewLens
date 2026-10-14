@@ -1,0 +1,41 @@
+Unique_ID,Category,Review_Header,Review_Text,Rating
+demo001,Mobiles,Stopped working,Phone stopped working after 3 weeks. Screen went black and it will not turn on. Very disappointed.,1
+demo002,Mobiles,Battery drains,Battery drains within 4 hours of normal use. Heats up a lot while charging. Poor quality for this price.,1
+demo003,Mobiles,Great phone,Excellent camera and smooth performance. Delivery was on time. Happy with the purchase.,5
+demo004,Mobiles,Service is bad,Screen has a defect and the service center keeps asking me to come back next week. No response on my warranty claim.,2
+demo005,Mobiles,Wrong item,I ordered the blue model but received a black one. Return process is very complicated.,1
+demo006,Mobiles,Good value,Worth the price. Display is nice and the phone is fast. A bit heavy though.,4
+demo007,Mobiles,Average,"Does the job. Nothing special, battery is okay.",3
+demo008,Mobiles,Fake product?,Phone overheated and the battery swelled up. I think it is a fake product. Want a refund immediately.,1
+demo009,Smart TV,Panel damaged,The TV box arrived crushed and the screen has a crack. Packaging was very poor.,1
+demo010,Smart TV,Installation problem,Technician never came for installation even after 5 days. Customer care just keeps saying they will call back.,2
+demo011,Smart TV,Superb picture,Picture quality is superb and the sound is great. Installation was quick. Highly recommend.,5
+demo012,Smart TV,Laggy apps,Apps are very slow and the remote hangs often. The TV hangs when I open YouTube.,2
+demo013,Smart TV,Dead on arrival,TV was dead on arrival. No power at all. Replacement is still pending after two weeks.,1
+demo014,Smart TV,Okay for the price,Decent TV for the price. Sound is a little weak and the menu is confusing.,3
+demo015,Smart TV,Good,Good display and easy setup. Delivery was two days late but otherwise fine.,4
+demo016,Smart TV,Overpriced,Honestly overpriced for what you get. The brand is not worth this much.,1
+demo017,Refrigerator,Not cooling,Fridge is not cooling properly. Freezer works but the main compartment stays warm. Service center visited twice and could not repair.,1
+demo018,Refrigerator,Noisy,Very noisy compressor at night. Cannot sleep. Design is also bulky and the door is hard to open.,2
+demo019,Refrigerator,Love it,Excellent cooling and spacious. Delivery and installation were smooth. Very satisfied.,5
+demo020,Refrigerator,Delivered with dent,Delivered with a big dent on the side. The box was torn. Delivery guys refused to take it back.,1
+demo021,Refrigerator,Late delivery,Delivery was delayed by 10 days and nobody informed me. Product itself is fine.,2
+demo022,Refrigerator,Average,Cooling is average and power consumption seems higher than advertised.,3
+demo023,Refrigerator,Value for money,Great value for money. Runs quietly. Small scratch on the door but not a big deal.,4
+demo024,Refrigerator,Warranty ignored,"Compressor failed in 8 months. Warranty claim has been pending for a month, no one is picking up calls.",1
+demo025,Mobile Accessories,Cable stopped working,Charging cable stopped working in 10 days. Waste of money.,1
+demo026,Mobile Accessories,Slow charging,Claims fast charging but it is very slow. Gets hot. Poor quality.,2
+demo027,Mobile Accessories,Perfect,Perfect fit and good build quality. Arrived early. Great value.,5
+demo028,Mobile Accessories,Missing item,Package arrived with the earphones missing. Seller is not responding to my return request.,1
+demo029,Mobile Accessories,Ok,Works fine but looks cheap. Not sure it is worth the price.,3
+demo030,Mobile Accessories,Nice case,"Nice case, protects well. A bit bulky and hard to remove.",4
+demo031,Mobile Accessories,Sound is bad,Earphones sound quality is poor and the left side is low. Disappointed.,2
+demo032,Mobile Accessories,Power bank issue,Power bank not charging my phone and gets too hot. Unsafe. Want a refund.,1
+demo033,Books,Excellent read,"Excellent book, well written. Arrived on time in good condition.",5
+demo034,Books,Torn cover,The book arrived with a torn cover and bent pages. Packaging was just a plastic cover.,2
+demo035,Books,Poor print,Print quality is very poor and some pages are blurry. Looks like a cheap copy.,1
+demo036,Books,Fine,Content is fine but small font makes it hard to read.,3
+demo037,Books,Good,"Good content, worth the money.",4
+demo038,Books,Wrong book delivered,Received a completely different book. Return pickup was never done.,1
+demo039,Books,Overpriced,Overpriced compared to the bookstore. Content is okay.,2
+demo040,Books,Loved it,Loved it. Fast delivery and well packed.,5
